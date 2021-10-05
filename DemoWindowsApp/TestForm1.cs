@@ -25,5 +25,9 @@ namespace DemoWindowsApp
         {
 
         }
+        public void Demo2()
+        {
+
+        }
     }
 }
